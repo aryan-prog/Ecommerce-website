@@ -3,12 +3,12 @@ This is an Ecommerce Website. This project has been made to learn HTML and CSS.
 
 Flexbox feature of CSS has been used here extensively to learn.
 
-# Ecommerce Website - JavaScript Application
+# Ecommerce Website 
 
 ![Ecommerce Website Screenshot](ecommerce-1.png)
 ![Ecommerce Website Screenshot](ecommerce-2.png)
 
-Welcome to my Ecommerce Website! This project is a single-page application built for learning purposes using HTML, CSS, and JavaScript. The application simulates an ecommerce website, where users can browse products, add items to their cart, and proceed with a checkout process. Please note that this is not a fully functional production-ready website but rather a learning project.Flexbox feature of CSS has been used here extensively to learn.
+Welcome to my Ecommerce Website! This project is a single-page application built for learning purposes using HTML and CSS. The application simulates an ecommerce website, where users can browse products, add items to their cart, and proceed with a checkout process. Please note that this is not a fully functional production-ready website but rather a learning project.Flexbox feature of CSS has been used here extensively to learn.
 
 ## Table of Contents
 
